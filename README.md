@@ -1,4 +1,4 @@
-# indian-cars-analysis
+# indian-cars-eda
 
 ## Project Overview
 This project focuses on Exploratory Data Analysis (EDA) of the Indian car market. The goal is to uncover insights, trends, and patterns within the dataset, providing a deeper understanding of the factors that influence car prices, popularity, and other key metrics.
